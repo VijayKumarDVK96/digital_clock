@@ -2,7 +2,7 @@
 
 **DEMO :** https://tranquil-bienenstitch-7fd110.netlify.app/
 
-Developed a responsive website for ... using ...
+Developed a responsive website for Digital Clock using HTML, CSS, JavaScript
 
 > **Technologies used:** HTML, CSS, JS
 
